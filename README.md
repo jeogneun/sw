@@ -5,4 +5,3 @@
 - Docker + WSL 환경 구축
 - GitHub 협업 (Commit / Push / Pull Request / Merge)
 - Jenkins CI/CD 자동 빌드 파이프라인
-- test
